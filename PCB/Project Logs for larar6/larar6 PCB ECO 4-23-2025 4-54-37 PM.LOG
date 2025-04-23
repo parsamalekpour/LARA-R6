@@ -1,0 +1,186 @@
+Removed Pin From Net: NetName=ANT2 Pin=C1-1
+Removed Pin From Net: NetName=ANT1 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=+3V3 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=+3V3 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=+3V3 Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=+3V3 Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=+3V3 Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=PWR_ON_N Pin=D5-2
+Removed Pin From Net: NetName=RESET_N Pin=D6-2
+Removed Pin From Net: NetName=V_USB Pin=FB1-1
+Removed Pin From Net: NetName=+5V0 Pin=FB1-2
+Removed Pin From Net: NetName=GND Pin=FB2-1
+Removed Pin From Net: NetName=SCHLD Pin=FB2-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=V_USB Pin=J3-17
+Removed Pin From Net: NetName=SCHLD Pin=J4-1
+Removed Pin From Net: NetName=SCHLD Pin=J4-2
+Removed Pin From Net: NetName=SCHLD Pin=J4-3
+Removed Pin From Net: NetName=SCHLD Pin=J4-4
+Removed Pin From Net: NetName=+5V0 Pin=J8-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=+3V3 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Member From Class: ClassName=larar6 Member=C1
+Removed Member From Class: ClassName=larar6 Member=C2
+Removed Member From Class: ClassName=larar6 Member=C8
+Removed Member From Class: ClassName=larar6 Member=C9
+Removed Member From Class: ClassName=larar6 Member=C10
+Removed Member From Class: ClassName=larar6 Member=C16
+Removed Member From Class: ClassName=larar6 Member=C17
+Removed Member From Class: ClassName=larar6 Member=C18
+Removed Member From Class: ClassName=larar6 Member=D1
+Removed Member From Class: ClassName=larar6 Member=D2
+Removed Member From Class: ClassName=larar6 Member=D3
+Removed Member From Class: ClassName=larar6 Member=D5
+Removed Member From Class: ClassName=larar6 Member=D6
+Removed Member From Class: ClassName=larar6 Member=FB1
+Removed Member From Class: ClassName=larar6 Member=FB2
+Removed Member From Class: ClassName=larar6 Member=J1
+Removed Member From Class: ClassName=larar6 Member=J2
+Removed Member From Class: ClassName=larar6 Member=J4
+Removed Member From Class: ClassName=larar6 Member=J6
+Removed Member From Class: ClassName=larar6 Member=J8
+Removed Member From Class: ClassName=larar6 Member=R3
+Removed Member From Class: ClassName=larar6 Member=R4
+Removed Member From Class: ClassName=larar6 Member=R6
+Removed Member From Class: ClassName=larar6 Member=U2
+Change Component Footprint: Designator=R4 Old Footprint=RES0603_(1608X06L) New Footprint=R0603
+Change Component Footprint: Designator=R6 Old Footprint=RES0603_(1608X06L) New Footprint=R0603
+Change Component Comment : Designator=R6 Old Comment=5.1K New Comment=30K
+Change Component Comment : Designator=R4 Old Comment=5.1K New Comment=200K
+Change Component Comment : Designator=D9 Old Comment=ON New Comment=ON_LED
+Change Component Comment : Designator=D8 Old Comment=PWR New Comment=PWR_LED
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES0603_(1608X06L)"; UniqueID = "\HTQSLUHG" ("\HTQSLUHG")
+Change component parameters (AddParameter): Name = "Designer"; Value = "Parsa Malekpour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES0603_(1608X06L)"; UniqueID = "\MXJCQUIR" ("\MXJCQUIR")
+Change component parameters (AddParameter): Name = "Designer"; Value = "Parsa Malekpour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "30K"; VariantName = "[No Variations]"
+Added Component: Designator=C19(C603)
+Add component (AddParameter): Name = "Designer"; Value = "Parsa Malekpour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C603)
+Add component (AddParameter): Name = "Designer"; Value = "Parsa Malekpour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C603)
+Add component (AddParameter): Name = "Designer"; Value = "Parsa Malekpour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=D4(led-0603)
+Added Component: Designator=IC2(SOP100P600X180-11N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/2204251615_WCH-Jiangsu-Qin-Heng-CH224K_C970725.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "WCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CH224K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 73251-2123
+Add Component: Footprint Not Found 73251-2123
+Added Component: Designator=R9(R0603)
+Add component (AddParameter): Name = "Designer"; Value = "Parsa Malekpour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0603)
+Add component (AddParameter): Name = "Designer"; Value = "Parsa Malekpour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0603)
+Add component (AddParameter): Name = "Designer"; Value = "Parsa Malekpour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603)
+Add component (AddParameter): Name = "Designer"; Value = "Parsa Malekpour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U3(FP-DDA0008E-IPC_A)
+Add component (AddParameter): Name = "Accuracy"; Value = "3%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "200mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "6.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Current Limit"; Value = "3.36A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "1.425V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "3mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=V_USB Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+3V3 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=+3V3 Pin=C21-2
+Added Pin To Net: NetName=+3V3 Pin=D4-1
+Added Pin To Net: NetName=+3V3 Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-11
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-1
+Added Pin To Net: NetName=+3V3 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=+3V3 Pin=R9-1
+Added Pin To Net: NetName=V_USB Pin=R9-2
+Added Pin To Net: NetName=+3V3 Pin=R11-2
+Added Pin To Net: NetName=V_USB Pin=R12-2
+Add Pin To Net: Unknown Pin: Pin SM1-1
+Add Pin To Net: Unknown Pin: Pin SM2-1
+Add Pin To Net: Unknown Pin: Pin SM3-1
+Added Pin To Net: NetName=V_USB Pin=U3-2
+Added Pin To Net: NetName=V_USB Pin=U3-3
+Added Pin To Net: NetName=+3V3 Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-9
+Change Net Name : Old Net Name=V_USB New Net Name=VBUS
+Added Pin To Net: NetName=CC1 Pin=IC2-7
+Added Pin To Net: NetName=CC1 Pin=J4-A5
+Added Net: Name=CC1
+Added Pin To Net: NetName=CC2 Pin=IC2-6
+Added Pin To Net: NetName=CC2 Pin=J4-B5
+Added Net: Name=CC2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R10-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetIC2_8 Pin=IC2-8
+Added Pin To Net: NetName=NetIC2_8 Pin=R12-1
+Added Net: Name=NetIC2_8
+Added Pin To Net: NetName=NetIC2_9 Pin=IC2-9
+Added Pin To Net: NetName=NetIC2_9 Pin=R11-1
+Added Net: Name=NetIC2_9
+Added Pin To Net: NetName=NetIC2_10 Pin=IC2-10
+Added Pin To Net: NetName=NetIC2_10 Pin=R10-1
+Added Net: Name=NetIC2_10
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R6-2
+Added Pin To Net: NetName=NetR4_1 Pin=U3-7
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=V_USB Pin=J3-17
+Added Net: Name=V_USB
+Added Class: Name=USB
+Add Class Member: Failed to add class member : Component J? 73251-2123
+Add Class Member: Failed to add class member : Component J? 73251-2123

@@ -1,0 +1,12 @@
+Add Pin To Net: Unknown Pin: Pin SM1-1
+Add Pin To Net: Unknown Pin: Pin SM2-1
+Add Pin To Net: Unknown Pin: Pin SM3-1
+Added Pin To Net: NetName=DCD_18 Pin=J3-8
+Added Pin To Net: NetName=DCD_18 Pin=U1-7
+Added Net: Name=DCD_18
+Added Pin To Net: NetName=DSR_18 Pin=J3-6
+Added Pin To Net: NetName=DSR_18 Pin=U1-9
+Added Net: Name=DSR_18
+Added Pin To Net: NetName=RI_18 Pin=J3-7
+Added Pin To Net: NetName=RI_18 Pin=U1-8
+Added Net: Name=RI_18

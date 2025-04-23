@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=RTS_33 Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=RXD_18 Pin=U1-6
+Removed Pin From Net: NetName=TXD_18 Pin=U1-7
+Removed Pin From Net: NetName=CTS_18 Pin=U1-8
+Removed Pin From Net: NetName=RTS_18 Pin=U1-9
+Removed Pin From Net: NetName=RTS_33 Pin=U1-12
+Removed Pin From Net: NetName=CTS_33 Pin=U1-13
+Removed Pin From Net: NetName=TXD_33 Pin=U1-14
+Removed Pin From Net: NetName=RXD_33 Pin=U1-15
+Removed Member From Class: ClassName=larar6 Member=R2
+Added Component: Designator=J7(PHDR5)
+Added Component: Designator=TP15(TP_SMD_Ø1.5mm)
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Class"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "TP_SMD_Ø1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2016-06-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TP_SMD_Ø1.5MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "100500477"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2016-06-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Ø1.5mm,SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=I2S_RXA_33 Pin=J7-1
+Added Pin To Net: NetName=I2S_CLK_33 Pin=J7-2
+Added Pin To Net: NetName=I2S_TXA_33 Pin=J7-3
+Added Pin To Net: NetName=I2S_WA_33 Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Add Pin To Net: Unknown Pin: Pin SM1-1
+Add Pin To Net: Unknown Pin: Pin SM2-1
+Add Pin To Net: Unknown Pin: Pin SM3-1
+Added Pin To Net: NetName=+1V8 Pin=TP15-1
+Added Pin To Net: NetName=RXD_18 Pin=U1-1
+Added Pin To Net: NetName=TXD_18 Pin=U1-3
+Added Pin To Net: NetName=CTS_18 Pin=U1-4
+Added Pin To Net: NetName=RTS_18 Pin=U1-5
+Added Pin To Net: NetName=RTS_33 Pin=U1-16
+Added Pin To Net: NetName=CTS_33 Pin=U1-17
+Added Pin To Net: NetName=TXD_33 Pin=U1-18
+Added Pin To Net: NetName=RXD_33 Pin=U1-20
+Added Pin To Net: NetName=DTR_18 Pin=J3-9
+Added Pin To Net: NetName=DTR_18 Pin=SB1-1
+Added Pin To Net: NetName=DTR_18 Pin=U1-6
+Added Net: Name=DTR_18
+Added Member To Class: ClassName=larar6 Member=Component J7 CONN-5
+Added Member To Class: ClassName=larar6 Member=Component TP15 Ø1.5mm,SMD

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=J7-5
+Removed Pin From Net: NetName=RTS_33 Pin=J9-1
+Removed Pin From Net: NetName=CTS_33 Pin=J9-2
+Removed Pin From Net: NetName=TXD_33 Pin=J9-3
+Removed Pin From Net: NetName=RXD_33 Pin=J9-4
+Removed Member From Class: ClassName=larar6 Member=J7
+Removed Member From Class: ClassName=larar6 Member=J9
+Add Pin To Net: Unknown Pin: Pin SM1-1
+Add Pin To Net: Unknown Pin: Pin SM2-1
+Add Pin To Net: Unknown Pin: Pin SM3-1

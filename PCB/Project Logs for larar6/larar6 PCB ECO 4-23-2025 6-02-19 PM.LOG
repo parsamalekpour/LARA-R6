@@ -1,0 +1,31 @@
+Added Component: Designator=RS232(FPC-10-0.5)
+Added Pin To Net: NetName=GND Pin=RS232-1
+Added Pin To Net: NetName=+3V3 Pin=RS232-10
+Add Pin To Net: Unknown Pin: Pin SM1-1
+Add Pin To Net: Unknown Pin: Pin SM2-1
+Add Pin To Net: Unknown Pin: Pin SM3-1
+Added Pin To Net: NetName=NetRS232_2 Pin=RS232-2
+Added Pin To Net: NetName=NetRS232_2 Pin=U1-12
+Added Net: Name=NetRS232_2
+Added Pin To Net: NetName=NetRS232_3 Pin=RS232-3
+Added Pin To Net: NetName=NetRS232_3 Pin=U1-13
+Added Net: Name=NetRS232_3
+Added Pin To Net: NetName=NetRS232_4 Pin=RS232-4
+Added Pin To Net: NetName=NetRS232_4 Pin=U1-14
+Added Net: Name=NetRS232_4
+Added Pin To Net: NetName=NetRS232_5 Pin=RS232-5
+Added Pin To Net: NetName=NetRS232_5 Pin=U1-15
+Added Net: Name=NetRS232_5
+Added Pin To Net: NetName=NetRS232_6 Pin=RS232-6
+Added Pin To Net: NetName=NetRS232_6 Pin=U1-16
+Added Net: Name=NetRS232_6
+Added Pin To Net: NetName=NetRS232_7 Pin=RS232-7
+Added Pin To Net: NetName=NetRS232_7 Pin=U1-17
+Added Net: Name=NetRS232_7
+Added Pin To Net: NetName=NetRS232_8 Pin=RS232-8
+Added Pin To Net: NetName=NetRS232_8 Pin=U1-18
+Added Net: Name=NetRS232_8
+Added Pin To Net: NetName=NetRS232_9 Pin=RS232-9
+Added Pin To Net: NetName=NetRS232_9 Pin=U1-20
+Added Net: Name=NetRS232_9
+Added Member To Class: ClassName=larar6 Member=Component RS232 CONN-10

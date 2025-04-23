@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=PB1 Old Footprint=PB-SMD-3 New Footprint=PB-SMD-5
+Change Component Footprint: Designator=PB2 Old Footprint=PB-SMD-3 New Footprint=PB-SMD-5
+Add Pin To Net: Unknown Pin: Pin SM1-1
+Add Pin To Net: Unknown Pin: Pin SM2-1
+Add Pin To Net: Unknown Pin: Pin SM3-1
